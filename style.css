@@ -90,8 +90,23 @@ a:hover {
     right: 0;
 }
 
+.contact_form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.form_label{
+    display: flex;
+    flex-direction: column;
+}
+.form-group{
+    margin-bottom: 20px
+}
+
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    /*background: url("img/texture-paper.png");*/
     background-size: 280px 280px;
 }
 
@@ -298,6 +313,7 @@ a:hover {
 .navbar {
     margin-bottom: 0;
     z-index: 1;
+    margin-left: 35%;
 }
 
 .navbar-brand {
@@ -311,7 +327,7 @@ a:hover {
 
 .navbar-brand img {
     max-height: 200px;
-      margin-left: 389px;
+    
     display: inline;
 }
 

@@ -116,6 +116,7 @@ a:hover {
 
 .d-bloc {
     color: rgba(255, 255, 255, .7);
+
 }
 
 .d-bloc button:hover {
@@ -210,7 +211,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .7);
 }
 
 .d-bloc .panel button:hover,
@@ -530,7 +531,7 @@ button {
 }
 
 .form-control {
-    border-color: rgba(0, 0, 0, .1);
+    
     box-shadow: none;
 }
 
@@ -683,6 +684,7 @@ a {
 
 .container {
     max-width: 1000px;
+    margin: auto auto auto auto;
 }
 
 .hero-bloc-text {
@@ -709,7 +711,7 @@ p {
 
 .tight-width-whitespace {
     max-width: 600px;
-    margin: auto auto auto auto;
+    
 }
 
 .h1 {

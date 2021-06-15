@@ -1,2 +1,2 @@
 user-agent: *
-sitemap: file: https://winstonblewup.github.io/PROJET_4_OC/
+sitemap: file: https://winstonblewup.github.io/PROJET_4_OC/sitemap.xml
